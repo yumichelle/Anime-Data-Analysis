@@ -24,5 +24,6 @@ Possible feature:
 -   given a cluster of anime and it’s information, predict how well an upcoming anime will do based on the average number of users like on the upcoming anime and its genre.
  
 ## Data Source
-[https://www.kaggle.com/thunderz/anime-dataset](https://www.kaggle.com/thunderz/anime-dataset)
-[https://www.kaggle.com/itokianarafidinarivo/myanimelist-animes-november-2020](https://www.kaggle.com/itokianarafidinarivo/myanimelist-animes-november-2020)
+[Anime dataset that include animate aired in 1900s - 2020 on Kaggle](https://www.kaggle.com/thunderz/anime-dataset)
+[2020 animate dataset on kaggle](https://www.kaggle.com/itokianarafidinarivo/myanimelist-animes-november-2020)
+[Anime dataset was last updated 4 years ago](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
